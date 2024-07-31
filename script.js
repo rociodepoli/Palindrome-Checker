@@ -20,8 +20,7 @@ for(let i=0;i<arr.length;i++){
 }
 return true
 }
-console.log(isPalindrome("notapalindrome"))
-console.log(cleanInputString('0_0 (: /-\ :) 0-0'))
+
 
 const checkPalindrome= (e)=>{
 e.preventDefault();
